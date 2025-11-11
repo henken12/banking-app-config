@@ -1,0 +1,1 @@
+My config server using central repostory github. For the seck of practice i am going to use public but for real world senario it should be private, i should only able to access this file using my config server for the security reason.
