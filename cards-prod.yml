@@ -3,7 +3,7 @@ build:
 
 
 cards:
-  message: "welcome to EazyBank loans related prod APIs"
+  message: "welcome to EazyBank loans related webhook APIs"
   contactDetails:
     name: "Tsinat Tesfa-Product Owner"
     email: "{cipher}30b7af1ed99c59934c9817cae5a1907a788be5080438fdd2de2a797b11f7b2e2d7c14c4b74e1c0aa99cff29a87d3ce28"
