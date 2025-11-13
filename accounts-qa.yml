@@ -5,7 +5,7 @@ build:
 
 
 accounts:
-  message: "Welcome to EazyBank accounts related QA APIs"
+  message: "Welcome to EazyBank accounts related Quality assurance APIs"
   contact-details:
     name:  "random person-QA Lead"
     email: "{cipher}008494567bfcfd20ac2c8023ff7ecf8651baf921a6033bda3ee56de4f682760c"
